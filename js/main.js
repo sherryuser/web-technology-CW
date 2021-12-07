@@ -80,7 +80,7 @@ void (function (root, factory) {
 
 CookieNotice();
 
-// My Accaunt
+// My Account
 
 const sign_in_btn = document.querySelector("#sign-in-btn");
 const sign_up_btn = document.querySelector("#sign-up-btn");
