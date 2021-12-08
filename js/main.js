@@ -8,7 +8,7 @@ collapsibles.forEach((item) =>
 );
 
 /*
- * cookie-notice.js
+ Cookie-Notice
  */
 
 void (function (root, factory) {
@@ -80,7 +80,9 @@ void (function (root, factory) {
 
 CookieNotice();
 
-// My Account
+/*
+ My-Account
+ */
 
 const sign_in_btn = document.querySelector("#sign-in-btn");
 const sign_up_btn = document.querySelector("#sign-up-btn");
